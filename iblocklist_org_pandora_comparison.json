@@ -1,0 +1,14 @@
+[
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 42131,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762697753,
+		"common": 2048
+	}
+]

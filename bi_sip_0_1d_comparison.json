@@ -1,0 +1,134 @@
+[
+	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 62262,
+		"common": 1
+	},
+	{
+		"name": "bi_any_0_1d",
+		"category": "attacks",
+		"ips": 16271,
+		"common": 18
+	},
+	{
+		"name": "bi_any_1_7d",
+		"category": "attacks",
+		"ips": 4002,
+		"common": 2
+	},
+	{
+		"name": "bi_asterisk_0_1d",
+		"category": "attacks",
+		"ips": 61,
+		"common": 2
+	},
+	{
+		"name": "bi_sip_1_7d",
+		"category": "attacks",
+		"ips": 2,
+		"common": 2
+	},
+	{
+		"name": "bi_voip_0_1d",
+		"category": "attacks",
+		"ips": 77,
+		"common": 18
+	},
+	{
+		"name": "bi_voip_1_7d",
+		"category": "attacks",
+		"ips": 6,
+		"common": 2
+	},
+	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 27986,
+		"common": 2
+	},
+	{
+		"name": "blocklist_de_sip",
+		"category": "attacks",
+		"ips": 131,
+		"common": 2
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 85943981,
+		"common": 6
+	},
+	{
+		"name": "dataplane_sipinvitation",
+		"category": "attacks",
+		"ips": 18,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sipquery",
+		"category": "attacks",
+		"ips": 428,
+		"common": 1
+	},
+	{
+		"name": "dataplane_sipregistration",
+		"category": "attacks",
+		"ips": 25,
+		"common": 2
+	},
+	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 37097,
+		"common": 2
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 34668793,
+		"common": 3
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1096613,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 639382183,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227798736,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762697753,
+		"common": 3
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346568180,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 34512268,
+		"common": 3
+	},
+	{
+		"name": "voipbl",
+		"category": "attacks",
+		"ips": 50527,
+		"common": 15
+	}
+]

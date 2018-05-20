@@ -1,0 +1,44 @@
+[
+	{
+		"name": "bambenek_c2",
+		"category": "malware",
+		"ips": 451,
+		"common": 1
+	},
+	{
+		"name": "bambenek_ranbyus",
+		"category": "malware",
+		"ips": 1,
+		"common": 1
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 85943981,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 641324166,
+		"common": 1
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 35522,
+		"common": 1
+	},
+	{
+		"name": "hphosts_psh",
+		"category": "reputation",
+		"ips": 42131,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227798736,
+		"common": 1
+	}
+]

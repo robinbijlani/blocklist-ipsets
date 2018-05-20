@@ -1,0 +1,110 @@
+[
+	{
+		"name": "botvrij_dst",
+		"category": "attacks",
+		"ips": 73,
+		"common": 2
+	},
+	{
+		"name": "datacenters",
+		"category": "organizations",
+		"ips": 85943981,
+		"common": 7
+	},
+	{
+		"name": "dronebl_worms_bots",
+		"category": "malware",
+		"ips": 139225,
+		"common": 1
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 641324166,
+		"common": 94
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 52578,
+		"common": 94
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9325624,
+		"common": 1
+	},
+	{
+		"name": "firehol_webclient",
+		"category": "malware",
+		"ips": 5423,
+		"common": 94
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 35522,
+		"common": 12
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 639382183,
+		"common": 31
+	},
+	{
+		"name": "iblocklist_edu",
+		"category": "organizations",
+		"ips": 227798736,
+		"common": 2
+	},
+	{
+		"name": "iblocklist_isp_att",
+		"category": "organizations",
+		"ips": 55845128,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762697753,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346568180,
+		"common": 4
+	},
+	{
+		"name": "iblocklist_spyware",
+		"category": "reputation",
+		"ips": 337108,
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 375226662,
+		"common": 4
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6267285,
+		"common": 1
+	},
+	{
+		"name": "sslbl_aggressive",
+		"category": "malware",
+		"ips": 3834,
+		"common": 94
+	},
+	{
+		"name": "urlvir",
+		"category": "malware",
+		"ips": 1152,
+		"common": 1
+	}
+]

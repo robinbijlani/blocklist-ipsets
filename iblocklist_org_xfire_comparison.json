@@ -1,0 +1,74 @@
+[
+	{
+		"name": "blueliv_crimeserver_online",
+		"category": "attacks",
+		"ips": 75676,
+		"common": 1
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 12190,
+		"common": 1
+	},
+	{
+		"name": "dronebl_auto_botnets",
+		"category": "reputation",
+		"ips": 318006,
+		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9325624,
+		"common": 1
+	},
+	{
+		"name": "hphosts_ats",
+		"category": "organizations",
+		"ips": 14897,
+		"common": 3
+	},
+	{
+		"name": "hphosts_emd",
+		"category": "malware",
+		"ips": 35522,
+		"common": 1
+	},
+	{
+		"name": "hphosts_mmt",
+		"category": "reputation",
+		"ips": 1081,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_ads",
+		"category": "organizations",
+		"ips": 888577,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_level1",
+		"category": "reputation",
+		"ips": 762697753,
+		"common": 3328
+	},
+	{
+		"name": "iblocklist_yoyo_adservers",
+		"category": "organizations",
+		"ips": 11919,
+		"common": 11
+	},
+	{
+		"name": "sorbs_web",
+		"category": "spam",
+		"ips": 6267285,
+		"common": 1
+	},
+	{
+		"name": "yoyo_adservers",
+		"category": "organizations",
+		"ips": 11919,
+		"common": 11
+	}
+]
